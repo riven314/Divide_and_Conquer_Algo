@@ -14,7 +14,7 @@ As a supplement, we also look into closest pairs algorithm. The purpose of the a
 
 Programming assignment in week 2 require us to write an inversion algorithm and count the number of inversion for a large array input.
 
-To be follow uo:
+To be follow up:
 1. Finish optional quiz
 
 ## Week3 Quick Sort
