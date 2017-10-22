@@ -25,7 +25,7 @@ On top of that, master method is introduced to offer us to framework to analyse 
 Programming assignment in week 3 require us to write a quick sort algorithm with different approach in choosing pivot (1. always choosing the last, always choosing the first, 3. choosing a "raw median"), and look into its number of operations. It turns out pivot with "raw median" gives a better performance in terms of number of operations.
 
 To be follow up:
-1. Study closest set algorithm
+1. Write a closest set algorithm
 2. Rumination on Master Method
 
 ## Week4 Selection Algorithm and Contraction Algorithm 
@@ -34,9 +34,7 @@ In week 4 we look at selection algorithm (selecting the nth order of data) and c
 In weeek 4 programming assignment, I am required to represent a graph in programme (by either adjacency list or adjacency matrix) and apply randomized contraction algorithm on a graph input to find out its minimum cut.
 
 To be follow up:
-1. Finish assignment 4
-2. Write a randomized selection algorithm
-3. Finish optional quiz
+1. Optimize my outstanding randomized contraction algorithm
 
 ## Miscellaneous
 During my learning experience in the course, I also did research on other algorithms with application on divide and conquer method.
